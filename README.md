@@ -1,6 +1,6 @@
 # pySystemCleaner
 
-**Created by ZxPwdz**
+**Created by ZxPwd**
 
 A comprehensive system cleaning and optimization tool for Windows. Built with Python and PyQt6 for a modern, user-friendly interface.
 
